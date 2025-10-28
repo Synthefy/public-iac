@@ -16,7 +16,7 @@ root_volume_size = 100
 
 # Container Configuration (from dev.tfvars)
 container_name               = "synthefy-api"
-container_image              = "857077105278.dkr.ecr.us-east-2.amazonaws.com/on-premises-forecasting-api:latest"
+container_image              = "637245294713.dkr.ecr.us-east-2.amazonaws.com/on-premises-forecasting-api:latest"
 container_port               = 8000
 container_memory             = 16384
 container_memory_reservation = 15360
